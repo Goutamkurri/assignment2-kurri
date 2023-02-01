@@ -4,3 +4,15 @@
 > Fun Fact- App that has more Screen Time in my phone is Chess.com
 
 [Click to view my picture](GoutamKurri.jpg)
+
+---
+
+### Countries to visit
+>Here is a list of countries that iam planning to visit in years to come. I want to suggest these countries if you are planning for a vacation.
+
+|Country|Reason to visit|Days to spend|
+|:---:|:---:|:---:|
+|France|Iconic Landmarks|3 weeks|
+|Japan|Modern Technology| 2 weeks|
+|Australia|Wildlife|3 weeks|
+|Italy|Cusines|2 weeks|
