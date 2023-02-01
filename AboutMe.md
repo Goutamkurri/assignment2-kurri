@@ -16,3 +16,10 @@
 |Japan|Modern Technology| 2 weeks|
 |Australia|Wildlife|3 weeks|
 |Italy|Cusines|2 weeks|
+
+---
+### My favorite Quotes
+
+> Doth Mother Know You Weareth Her Drapes? - *Tony Stark*
+
+> I'am Groot. - *Groot*
