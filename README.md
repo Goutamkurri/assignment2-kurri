@@ -19,4 +19,4 @@ Other good teams to watch are
 
 ---
 
-Link to AboutMe : <https://github.com/Goutamkurri/assignment2-kurri/blob/0e7fc3b92ca857bbed5663d4a790038ca8f1a3cc/AboutMe.md>
+[Link to AboutMe](AboutMe.md)
