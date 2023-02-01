@@ -20,9 +20,9 @@
 ---
 ### My favorite Quotes
 
-> Doth Mother Know You Weareth Her Drapes? - *Tony Stark*
+> "Doth Mother Know You Weareth Her Drapes?" - *Tony Stark*
 
-> I'am Groot. - *Groot*
+> "I'am Groot." - *Groot*
 
 ---
 
