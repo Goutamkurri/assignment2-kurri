@@ -12,7 +12,7 @@
   2. Neymar
   3. Mbappé 
 
-Other good teams are 
+Other good teams to watch are 
 * Real Madrid
 * Barcelona
 * Manchester United
