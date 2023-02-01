@@ -23,3 +23,21 @@
 > Doth Mother Know You Weareth Her Drapes? - *Tony Stark*
 
 > I'am Groot. - *Groot*
+
+---
+
+### Code Fencing
+
+> Get Content by ID in Wordpress
+> 
+> Article in Stackoverflow <https://stackoverflow.com/questions/5317366/proper-way-to-get-page-content>
+~~~ 
+function get_the_content_by_id($post_id) {
+  $page_data = get_page($post_id);
+  if ($page_data) {
+    return $page_data->post_content;
+  }
+  else return false;
+}
+~~~
+> Source of Snippet <https://css-tricks.com/snippets/wordpress/get-content-by-id/>
